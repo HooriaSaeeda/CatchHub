@@ -1,0 +1,245 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600&display=swap'); 
+
+
+/* -------header Start-------- */
+
+/* --------Figure Tag 1 start--------- */
+
+.header-fig1
+{ 
+   
+    margin: 98px 100px 0 100px;
+} 
+
+/* -------logo img------- */
+.logo
+{
+    width: 28%;
+    padding-left: 65px;
+    padding-top: 65px
+}
+/* -------figure caption tag 1 start-------- */
+
+/* -----paragraph------- */
+ .header-caption
+{ font-size: 38px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+    margin: 0%;
+    padding-inline: 0%;
+} 
+/* --------spam---------- */
+
+.scndline
+{
+    font-size: 27px;
+    padding-left: 83px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    color: grey;
+}
+
+
+/* --------Figure Tag 2 start--------- */
+
+.header-fig2
+{
+/* display: flex; */
+margin-left: 8px;
+
+}
+
+
+/* -------andriod img------- */
+.andriod
+{
+    width: 16%;
+    margin-right: 10px;
+    
+}
+
+/* -------apple img--------- */
+.apple
+{ 
+    width: 16%;
+} 
+
+
+/* --------top screen img-------- */
+
+.header-fig3
+{ margin-left: 0%;
+    margin-right: 0%;
+  
+
+}
+.topscrn
+{
+    float: right;
+  width: 52%;
+  
+}
+
+
+/* -------Header end--------- */
+
+
+/*---------------- section start----------------- */
+
+/* ----------------Figure Tag  ----------- */
+
+
+.sec-fig1
+{
+    float: left;
+    margin-bottom: 0%;
+}
+
+/* ----------second screen img------- */
+
+.sec_screens{
+
+width: 48%;
+
+}
+
+/* ---------figure caption 1---------- */
+.sec-caption1
+{
+    float: right;
+    
+}
+.sec-para
+{ font-size: 38px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+    text-align: center;
+   margin: 0%;
+   padding-right: 121px;
+   padding-top: 171px;
+}
+
+.sec-spam
+{    font-size: 32px; 
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    color: grey;
+    
+}
+
+/* -----------------figure tag 2-------------- */
+ 
+.sec-fig2
+{ margin-top: 0%;
+    padding-bottom: 10px;
+  
+}
+.sec-para1
+{
+    font-size: 38px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+    text-align: center;
+    margin: 0%;
+    padding-left: 191px;
+    padding-top: 49px;
+}
+/* ---------------th-screen img------------- */
+
+
+.thhh_screens
+{
+    width: 41%;
+    float: right;
+    margin-top: -180px;
+    padding-right: 71px;
+}
+
+
+.sec-caption2
+{
+    float: left;;
+}
+
+
+/* ----------------------for scren img--------------- */
+
+.for_screens
+{
+    width: 45%;
+    float: left;
+}
+
+/* ----------------------section figure caption 3 ------------------------ */
+.sec-captio3
+{     width: 50%;
+    padding-right: 53px;
+    float: right; 
+}
+
+.sec-cp3
+{       font-size: 38px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 600;
+    text-align: center;
+    margin: 0%;
+    padding-right: 191px;
+    padding-top: 49px;
+ 
+}
+
+
+.sec-spam-cp3
+{  font-size: 32px; 
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    color: grey;
+}
+.vector
+{      padding-top: 110px;
+    margin-left:  -124px;
+    width: 99%;
+    width: 99%;
+}
+
+/* --------section end-------- */
+
+
+.footer-para
+{
+    font-size: 30px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    margin: 0%;
+    padding-top: 48%;
+}
+.footer-fig1
+{
+    
+    width: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a
+{
+    color: rgb(96 171 255);
+text-decoration: none;
+}
+.peratude
+{
+    width: 8%;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+.footer-p2
+{
+    text-align: center;
+    font-size: 30px; 
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+   
+}
