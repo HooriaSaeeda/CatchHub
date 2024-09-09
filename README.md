@@ -1,4 +1,4 @@
-# CatchHub 
+# CatchHub (Not Responsive)
 
 ## Table of contents
 
