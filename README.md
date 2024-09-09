@@ -22,13 +22,13 @@ CatchHub is a clone project that I built for practice purposes when I was new to
 
 - **CatchHub : Desktop design**
 
-![](./instaAssest/insta.png)
+![](./Catchhub/Catchhub.png)
 
 
 ### Links
 
 - Solution URL: [https://github.com/hoor23/CatchHub.git](https://github.com/hoor23/CatchHub.git)
-- Live Site URL: [https://hoor23.github.io/Instagram_clone/](https://hoor23.github.io/Instagram_clone/)
+- Live Site URL: [https://hoor23.github.io/CatchHub/](https://hoor23.github.io/CatchHub/)
 
 ## My process
 
